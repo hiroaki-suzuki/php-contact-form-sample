@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.contact__name {
+    margin-bottom: 10px;
+}
+
+.contact__name-form {
+    height: 25px;
+    width: 200px;
+}
+
+.contact__email {
+    margin-bottom: 10px;
+}
+
+.contact__email-form {
+    height: 25px;
+    width: 200px;
+}
+
+.contact__content {
+    margin-bottom: 10px;
+}
+
+.contact__error {
+    color: red;
+}
+
+.contact__action-btn {
+
+}
